@@ -3,6 +3,6 @@ TMDB Box Office Prediction (Kaggle competition)
 
 
 Some notebook files may not be properly rendered in a GitHub repository.<br>
-Please use nbviewer utility of Project Jupyter by
+Please use nbviewer utility of Project Jupyter to view them via the following steps.
 1. Open https://nbviewer.jupyter.org/ 
 2. Copy and paste the URL of file in the textfield.
