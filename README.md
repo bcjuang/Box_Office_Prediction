@@ -8,10 +8,12 @@ Built a regression model to predict the worldwide box office revenue based on me
 - Train data: 3000 films
 - Test data: 4398 films
 <br><br>
+
 ### Result
 - The pretictive model produce a **RMSLE score = 1.94524 (top 30%)**
 - Leaderboard: https://www.kaggle.com/c/tmdb-box-office-prediction/leaderboard
 <br><br>
+
 ### Reference
 https://www.kaggle.com/c/tmdb-box-office-prediction 
 <br><br>
