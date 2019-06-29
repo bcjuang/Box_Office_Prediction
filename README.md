@@ -10,7 +10,7 @@ Built a regression model to predict the worldwide box office revenue based on me
 <br><br>
 
 ### Result
-- The pretictive model produce a **RMSLE score = 1.94524 (top 30%)**
+- The pretictive model produce a **RMSLE score = 1.94524 (top 30% worldwide)**
 - Leaderboard: https://www.kaggle.com/c/tmdb-box-office-prediction/leaderboard
 <br><br>
 
@@ -19,7 +19,4 @@ https://www.kaggle.com/c/tmdb-box-office-prediction
 <br><br>
 
 ### Note:
-Some notebook files may not be properly rendered in a GitHub repository.<br>
-Please use nbviewer utility of Project Jupyter to view them via the following steps.
-1. Open https://nbviewer.jupyter.org/ 
-2. Copy and paste the URL of file in the textfield.
+If the notebook is not properly displayed, please try: https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TMDB_Box_Office_Prediction_Dataset_final.ipynb
