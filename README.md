@@ -1,4 +1,4 @@
-# Project-03_Box_Office_Prediction
+# Box Office Prediction
 TMDB Box Office Prediction (Kaggle competition)
 <br><br>
 
