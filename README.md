@@ -1,7 +1,7 @@
 # Box Office Prediction
 TMDB Box Office Prediction (Kaggle competition)
 <br><br>
-If the notebook is not properly displayed, please go to https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TMDB_Box_Office_Prediction_Dataset_final.ipynb
+If the notebook cannot be properly displayed, please go to https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TMDB_Box_Office_Prediction_Dataset_final.ipynb
 
 ### Problem statement
 Built a regression model to predict the worldwide box office revenue based on metadata on over 7,000 past films from The Movie Database (TMDb). 
