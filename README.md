@@ -6,10 +6,8 @@ https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TM
 <br><br>
 
 ### Problem statement
-Built a regression model to predict the worldwide box office revenue based on metadata on over 7,000 past films from The Movie Database (TMDb). 
+Built a regression model to predict the worldwide box office revenue based on metadata on past films from The Movie Database (TMDb). 
 
-- Train data: 3000 films
-- Test data: 4398 films
 <br><br>
 
 ### Result
