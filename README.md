@@ -8,7 +8,7 @@ https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TM
 ### Problem statement
 Built a regression model to predict the worldwide box office revenue based on metadata on past films from The Movie Database (TMDb). 
 
-<br><br>
+<br>
 
 ### Result
 - The pretictive model produce a **RMSLE score = 1.94524 (top 30% worldwide)**
