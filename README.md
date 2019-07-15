@@ -1,7 +1,7 @@
 # Box Office Prediction
 TMDB Box Office Prediction (Kaggle competition)
 
-**nbviewer version:**
+**Use the link below to view with nbviewer:**
 https://nbviewer.jupyter.org/github/bcjuang/Box_Office_Prediction/blob/master/TMDB_Box_Office_Prediction_Dataset_final.ipynb
 <br><br>
 
