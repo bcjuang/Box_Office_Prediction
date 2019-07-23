@@ -10,13 +10,15 @@ In this competition, you're presented with metadata on over 7,000 past films fro
 
 Submissions are evaluated on Root-Mean-Squared-Logarithmic-Error (RMSLE) between the predicted value and the actual revenue. Logs are taken to not overweight blockbuster revenue movies.
 
-<br>
+### Machine learning model
+- LightGBM
+- XGBoost
+- Ensemble learning
 
 ### Result
 - The pretictive model produce a **RMSLE score = 1.94524 (top 30% worldwide)**
 - Leaderboard: https://www.kaggle.com/c/tmdb-box-office-prediction/leaderboard
-<br>
 
 ### Reference
 https://www.kaggle.com/c/tmdb-box-office-prediction 
-<br>
+
