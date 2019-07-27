@@ -11,9 +11,10 @@ In this competition, you're presented with metadata on over 7,000 past films fro
 Submissions are evaluated on Root-Mean-Squared-Logarithmic-Error (RMSLE) between the predicted value and the actual revenue. Logs are taken to not overweight blockbuster revenue movies.
 
 ### Machine learning model
+- Gradient Boosting
 - LightGBM
 - XGBoost
-- Ensemble learning
+- Model stacking (meta ensembling)
 
 ### Result
 - The pretictive model produce a **RMSLE score = 1.94524 (top 30% worldwide)**
